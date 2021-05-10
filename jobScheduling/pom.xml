@@ -11,5 +11,12 @@
 
   <artifactId>jobScheduling</artifactId>
 
+  <dependencies>
+    <dependency>
+      <groupId>org.jeasy</groupId>
+      <artifactId>easy-batch-core</artifactId>
+      <version>7.0.2</version>
+    </dependency>
+  </dependencies>
 
 </project>
