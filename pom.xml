@@ -12,6 +12,7 @@
     <module>aviator</module>
     <module>jobScheduling</module>
     <module>beanMapping</module>
+    <module>flowableSpringBoot</module>
   </modules>
 
   <dependencies>

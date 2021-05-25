@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: jdbc:mysql://114.55.140.68:12306/flowable-spring-boot?characterEncoding=UTF-8
+    username: root
+    password: 'edsEd#@11'
+flowable:
+  #关闭定时任务JOB
+  async-executor-activate: false
