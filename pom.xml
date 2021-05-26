@@ -13,6 +13,7 @@
     <module>jobScheduling</module>
     <module>beanMapping</module>
     <module>flowableSpringBoot</module>
+    <module>dynamicCode</module>
   </modules>
 
   <dependencies>
