@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DynamicCodeApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(com.easycodingnow.dynamic.code.DynamicCodeApplication.class, args);
+        SpringApplication.run(DynamicCodeApplication.class, args);
     }
 
 }
